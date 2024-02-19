@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A Game developer and Cobblemon sidemod creator. For my Cobblemon mods, see [PokeSplash](https://github.com/PokeSplashDEV)</h3>
+<h3 align="center">A Game developer and Cobblemon sidemod creator. For my Cobblemon mods, see <a href="https://github.com/PokeSplashDEV">PokeSplash</a></h3>
 
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bencrow11&show_icons=true&theme=cobalt&locale=en" alt="bencrow11" /></p>
